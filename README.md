@@ -8,7 +8,7 @@ It focuses on analyzing sales trends, store performance, and holiday impact on s
 - Total sales analysis  
 - Weekly sales trend  
 - Top-performing stores  
-- Sales by store type  
+- Sales by Store type  
 - Holiday vs non-holiday comparison  
 
 ## 🛠 Tools Used
